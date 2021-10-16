@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="prasa.tvp.pl">
+  <channels>
+    <channel update="i" site="prasa.tvp.pl" site_id="DomowePrzedszkole##DMPR" xmltv_id="Domowe Przedszkole PL">Domowe Przedszkole PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="FERIEzTVP##FERIE" xmltv_id="TVP Ferie PL">TVP Ferie PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="programTVP1##T1D" xmltv_id="TVP 1 PL">TVP 1 PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="ProgramTVP2##T2D" xmltv_id="TVP 2 PL">TVP 2 PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TV_Bielsat##TVBI" xmltv_id="TV Bielsat PL">TV Bielsat PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVP3##T3D" xmltv_id="TVP 3 PL">TVP 3 PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVP4K##KS4K" xmltv_id="TVP 4K PL">TVP 4K PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPABC##ABC" xmltv_id="TVP ABC PL">TVP ABC PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPDokument##DOK" xmltv_id="TVP Dokument PL">TVP Dokument PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPHD##KHSH" xmltv_id="TVP HD PL">TVP HD PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPHistoria##TKH" xmltv_id="TVP Historia PL">TVP Historia PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPHistoria2##H2" xmltv_id="TVP Historia 2 PL">TVP Historia 2 PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPInfo##INF" xmltv_id="TVP Info PL">TVP Info PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPKobieta##KBT" xmltv_id="TVP Kobieta PL">TVP Kobieta PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPKultura##T5D" xmltv_id="TVP Kultura PL">TVP Kultura PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPKultura##T5D2" xmltv_id="TVP Kultura PL2">TVP Kultura PL2</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVP3_Warszawa##XAA" xmltv_id="TVP 3 Warszawa PL">TVP 3 Warszawa PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPPolonia##T4D" xmltv_id="TVP Polonia PL">TVP Polonia PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPRozrywka##TRO" xmltv_id="TVP Rozrywka PL">TVP Rozrywka PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPSeriale##TRS" xmltv_id="TVP Seriale PL">TVP Seriale PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPSport##KSP" xmltv_id="TVP Sport PL">TVP Sport PL</channel>
+    <channel update="i" site="prasa.tvp.pl" site_id="TVPWilno##WILNO" xmltv_id="TVP Wilno PL">TVP Wilno PL</channel>
+  </channels>
+</site>
